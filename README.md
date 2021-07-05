@@ -1,1 +1,1 @@
-# Master-Yhesis-Results
+# Master-Thesis-Results
